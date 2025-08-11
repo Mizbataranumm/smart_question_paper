@@ -4,13 +4,6 @@ A Python-based tool to automatically generate question papers from a predefined 
 - Loads questions from a CSV file
 - Randomly selects questions for the paper
 - Displays marks for each question
-## 📂 Project Structure
-smart_question_paper
-├── main.py # Main script to generate papers
-├── requirements.txt # Python dependencies
-├── data/
-│ └── sample_questions.csv # Question bank
-└── database.sql # Optional DB structure for future
 ## 🛠️ How to Run
 1. **Clone the repository**
    git clone https://github.com/Mizbataranumm/smart_question_paper.git
