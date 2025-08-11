@@ -1,0 +1,9 @@
+id,module,question,marks
+1,1,Define DBMS.,6
+2,1,Explain the 3-level architecture of DBMS.,7
+3,1,Write a short note on data models.,7
+4,2,Write a relational algebra query to find employees with salary > 50000.,6
+5,2,List the departments with more than 5 employees using relational algebra.,7
+6,2,Retrieve names of employees who work in 'Sales' department.,7
+7,3,Write an SQL query to insert a record into STUDENT table.,5
+8,3,Write an SQL query to delete a record from EMPLOYEE table.,5
