@@ -23,22 +23,6 @@ smart_question_paper/
     pip install -r requirements.txt
 3. **Run the script**
     python main.py
-
-**Example Output**
-
-🚀 Starting Smart Question Paper Generator...
-🔄 Loading CSV...
-✅ Loaded 8 questions
-📄 Generating question paper...
-
-📘 Your Generated Question Paper:
-
-1. Define DBMS. [Marks: 6]
-2. List the departments with more than 5 employees using relational algebra. [Marks: 7]
-3. Write an SQL query to delete a record from EMPLOYEE table. [Marks: 5]
-4. Write a short note on data models. [Marks: 7]
-5. Retrieve names of employees who work in 'Sales' department. [Marks: 7]
-
 ---
 
 For `requirements.txt`, just add:
